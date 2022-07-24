@@ -1,2 +1,2 @@
 # Simon-Game
-Will update the Readme part soon
+Will update the Readme part soon.
